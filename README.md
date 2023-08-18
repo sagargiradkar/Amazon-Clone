@@ -18,7 +18,7 @@ The Amazon Clone Website is a demonstration of my web development skills, partic
 
 ## Demo
 
-Check out the live demo of the Amazon Clone Website: 
+Check out the live demo of the Amazon Clone Website: https://sagargiradkar.github.io/Amazon-Clone/
 
 ## How to Run Locally
 
